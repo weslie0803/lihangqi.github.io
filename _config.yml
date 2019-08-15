@@ -1,7 +1,7 @@
 # Site settings
-title: BY Blog
-SEOTitle: 凌洛的博客 | BY Blog
-header-img: img/post-in-aliyun.jpg
+title: Lihangqi Blog
+SEOTitle: 凌洛的博客 | Lihangqi Blog
+header-img: img/post-bg-alibaba.jpg
 email: aliyunhankli@gmail.com
 description: "Stay Hungry,Stay Foolish,But be Crazy."
 keyword: "BY, BY Blog, 凌洛的博客, lihangqi, 厉航琦, iOS, Apple, iPhone"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/lihangqi/lihangqi.github.io.git" # you code rep
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/post-in-aliyun.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
