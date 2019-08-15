@@ -1,3 +1,16 @@
+---
+layout:     post   				    # 使用的布局（不需要改）
+title:      分布式存储引擎OceanBase，UpdateServer 实现机制——存储引擎 				# 标题 
+subtitle:   UpdateServer存储引擎 #副标题
+date:       2019-07-24 				# 时间
+author:     凌洛 						# 作者
+header-img: img/post-bg-github-cup.jpg 	#这篇文章标题背景图片
+catalog: true 						# 是否归档
+tags:								#标签
+    - 数据库
+---
+
+
 UpdateServer存储引擎如下图所示。
 ![UpdateServer存储引擎](https://github.com/lihangqi/My-blog/blob/master/picture/%E6%BC%94%E7%A4%BA%E6%96%87%E7%A8%BF1.jpg)
 UpdateServer存储引擎与Bigtable存储引擎看起来很相似，不同点在于：
