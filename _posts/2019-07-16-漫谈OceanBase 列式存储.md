@@ -30,7 +30,7 @@ OLTP，也叫联机事务处理（Online Transaction Processing），表示事�
 # 列组（Column Group）
 
 OceanBase通过列组支持行列混合存储，每个列组存储多个经常一起访问的列。
-![OceanBase 列组设计](https://github.com/lihangqi/My-blog/blob/master/picture/07cf7f105e565768d40ccd5987ccef0393bb79bc.jpeg)
+![OceanBase 列组设计](https://oss-weslie.oss-cn-shanghai.aliyuncs.com/%E5%9B%BE%E7%89%87/github%E5%8D%9A%E5%AE%A2%E5%9B%BE/07cf7f105e565768d40ccd5987ccef0393bb79bc.jpeg)
 如上图所示，OceanBase SSTable首先按照列组存储，每个列组内部再按行存储。分为几种情况：
 - 所有列属于同一个列组。数据在SSTable中按行存储，OLTP应用往往配置为这种方式。
 - 每列对应一个列组。数据在SSTable中按列存储，这种方式在实际应用中比较少见。

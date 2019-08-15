@@ -52,7 +52,7 @@ OceanBase内部会定期触发合并或者数据分发操作，在这个过程�
 
 **新子表=旧子表+冻结内存表**
 
-![定期合并不停读服务](https://github.com/lihangqi/My-blog/blob/master/picture/b490ad636c6ba1479d1a6ebd47029d7a8cb2ddf4.jpeg)
+![定期合并不停读服务](https://oss-weslie.oss-cn-shanghai.aliyuncs.com/%E5%9B%BE%E7%89%87/github%E5%8D%9A%E5%AE%A2%E5%9B%BE/b490ad636c6ba1479d1a6ebd47029d7a8cb2ddf4.jpeg)
 
 虽然定期合并过程中各个ChunkServer的各个子表合并时间和完成时间可能都不相同。但并不影响读取服务。如果子表没有合并完成，那么使用旧子表，并且读取UpdateServer中的冻结内存表以及新的活跃内存表；否则，使用新子表，只读取新的活跃内存表，即：
 **查询结果=旧子表+冻结内存表+新的活跃内存表=新子表+新的活跃内存表**
