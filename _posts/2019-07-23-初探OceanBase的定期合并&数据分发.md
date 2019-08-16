@@ -1,7 +1,7 @@
 ---
 layout:     post   				    # 使用的布局（不需要改）
 title:      初探OceanBase的定期合并&数据分发 				# 标题 
-subtitle:   Hello World, Hello Blog #副标题
+subtitle:   MergeServer/UpdateServer/ChunkServer #副标题
 date:       2019-07-23 				# 时间
 author:     BY 						# 作者
 header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片

@@ -1,6 +1,6 @@
 # Site settings
-title: Lihangqi Blog
-SEOTitle: 凌洛的博客 | Lihangqi Blog
+title: Hank.Li Blog
+SEOTitle: 凌洛的博客 | Hank.Li Blog
 header-img: img/post-bg-alibaba.jpg
 email: aliyunhankli@gmail.com
 description: "Stay Hungry,Stay Foolish,But be Crazy."
@@ -11,7 +11,7 @@ github_repo: "https://github.com/lihangqi/lihangqi.github.io.git" # you code rep
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "Stay Hungry,Stay Foolish,But be Crazy."
 sidebar-avatar: /img/post-in-aliyun.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -98,16 +98,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
         title: "哔哩哔哩·凌洛云",
         href: "https://space.bilibili.com/178366506"
     },{
         title: "Apple",
         href: "https://apple.com"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "阿里云",
+        href: "https://aliyun.com/"
+    },{
+        title: "云栖社区",
+        href: "https://yq.aliyun.com/users/zqvnreb7paogo?spm=a2c4e.11155435.allcontent.1.6cbe15e1yFESud"
     }
 ]
