@@ -4,7 +4,7 @@ title:      漫谈OceanBase 列式存储				# 标题
 subtitle:   列式存储主要的目的有两个：大部分OLAP查询只需要读取部分列而不是全部列数据，列式存储可以避免读取无用数据；将同一列的数据在物理上存放在一起，能够极大地提高数据压缩率。 #副标题
 date:       2019-07-16				# 时间
 author:     凌洛 						# 作者
-header-img: img/post-bg-universe.jpg 	#这篇文章标题背景图片
+header-img: https://oss-weslie.oss-cn-shanghai.aliyuncs.com/data/blog_post_bg/post-bg-universe.jpg	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
     - 数据库

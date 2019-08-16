@@ -4,7 +4,7 @@ title:      分布式存储引擎OceanBase，UpdateServer 实现机制——存�
 subtitle:   UpdateServer存储引擎 #副标题
 date:       2019-07-24 				# 时间
 author:     凌洛 						# 作者
-header-img: img/post-bg-github-cup.jpg 	#这篇文章标题背景图片
+header-img: https://oss-weslie.oss-cn-shanghai.aliyuncs.com/data/blog_post_bg/post-bg-github-cup.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
     - 数据库

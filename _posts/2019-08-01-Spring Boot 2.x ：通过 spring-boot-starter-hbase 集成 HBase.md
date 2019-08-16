@@ -4,7 +4,7 @@ title:      Spring Boot 2.x ：通过 spring-boot-starter-hbase 集成 HBase				
 subtitle:   多核的CPU的背景下，催生了并发编程的趋势，通过并发编程的形式可以将多核CPU的计算能力发挥到极致，性能得到提升。  #副标题
 date:       2019-08-01				# 时间
 author:     凌洛 						# 作者
-header-img: img/post-bg-codecom.jpg 	#这篇文章标题背景图片
+header-img: https://oss-weslie.oss-cn-shanghai.aliyuncs.com/data/blog_post_bg/post-bg-codecom.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
     - Java

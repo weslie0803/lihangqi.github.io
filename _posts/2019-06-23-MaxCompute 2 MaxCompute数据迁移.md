@@ -4,7 +4,7 @@ title:      MaxCompute 2 MaxCompute数据迁移				# 标题
 subtitle:   在实际使用中已经有客户遇到了这种场景，比如：两个网络互通的专有云环境之间数据迁移、公共云数加DataIDE上两个云账号之间数据迁移、还有网络不通的两个MaxCompute项目数据迁移等等，下面我们逐个场景介绍。  #副标题
 date:       2019-06-23				# 时间
 author:     凌洛 						# 作者
-header-img: img/post-bg-coder.jpg 	#这篇文章标题背景图片
+header-img: https://oss-weslie.oss-cn-shanghai.aliyuncs.com/data/blog_post_bg/post-bg-coder.jpg	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
     - 大数据

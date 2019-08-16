@@ -4,7 +4,7 @@ title:      记一次Minecraft游戏服务器搭建实践经历 				# 标题
 subtitle:   Minecraft #副标题
 date:       2019-07-25 				# 时间
 author:     凌洛 						# 作者
-header-img: img/index-hero-og.jpg 	#这篇文章标题背景图片
+header-img: https://oss-weslie.oss-cn-shanghai.aliyuncs.com/data/blog_post_bg/index-hero-og.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
     - 游戏服务器
