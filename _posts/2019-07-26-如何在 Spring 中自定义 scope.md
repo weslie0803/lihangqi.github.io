@@ -4,7 +4,7 @@ title:      如何在 Spring 中自定义 scope				# 标题
 subtitle:   大家对于 Spring 的 scope 应该都不会默认。所谓 scope，字面理解就是“作用域”、“范围”，如果一个 bean 的 scope 配置为 singleton，则从容器中获取 bean 返回的对象都是相同的；如果 scope 配置为prototype，则每次返回的对象都不同。一般情况下，Spring 提供的 scope 都能满足日常应用的场景。但如果你的需求极其特殊，则本文所介绍自定义 scope 合适你。  #副标题
 date:       2019-07-26				# 时间
 author:     凌洛 						# 作者
-header-img: https://oss-weslie.oss-cn-shanghai.aliyuncs.com/data/blog_post_bg/post-bg-debug.png 	#这篇文章标题背景图片
+header-img: img/post-bg-debug.png 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
     - 数据库

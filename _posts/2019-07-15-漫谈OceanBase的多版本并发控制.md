@@ -4,7 +4,7 @@ title:      漫谈OceanBase的多版本并发控制				# 标题
 subtitle:   OceanBase的MemTable包含两个部分：索引结构及行操作链。其中，索引结构存储行头信息，采用内存B树实现；行操作链表中存储了不同版本的修改操作，从而支持多版本并发控制。  #副标题
 date:       2019-07-15				# 时间
 author:     凌洛 						# 作者
-header-img: https://oss-weslie.oss-cn-shanghai.aliyuncs.com/data/blog_post_bg/post-bg-universe.jpg 	#这篇文章标题背景图片
+header-img: img/post-bg-universe.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
     - 数据库

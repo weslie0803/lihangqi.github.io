@@ -4,7 +4,7 @@ title:      浅谈OceanBase的锁机制原理				# 标题
 subtitle:   OceanBase锁定粒度为行锁，默认情况下的隔离级别为读取已提交（read committed)。另外，读操作总是读取某个版本的快照数据，不需要加锁。  #副标题
 date:       2019-07-13				# 时间
 author:     凌洛 						# 作者
-header-img: https://oss-weslie.oss-cn-shanghai.aliyuncs.com/data/blog_post_bg/post-bg-code1.jpg 	#这篇文章标题背景图片
+header-img: img/post-bg-code1.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
     - 数据库
