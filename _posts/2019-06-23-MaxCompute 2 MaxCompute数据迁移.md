@@ -14,7 +14,8 @@ tags:								#标签
 
 # 场景一：两个网络互通的专有云MaxCompute环境之间数据迁移
     
-    这种场景需要先从源MaxCompute中导出元数据DDL，在目标MaxCompute中初始化表，然后借助DataX工具完成数据迁移，步骤如下：
+这种场景需要先从源MaxCompute中导出元数据DDL，在目标MaxCompute中初始化表，然后借助DataX工具完成数据迁移，步骤如下：
+
 ## 1. 安装配置ODPS客户端
 
 [https://help.aliyun.com/document_detail/27804.html](https://help.aliyun.com/document_detail/27804.html)
