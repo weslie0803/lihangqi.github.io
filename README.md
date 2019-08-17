@@ -1,7 +1,6 @@
-# 我的博客
+# [我的博客](https://lihangqi.top)
 
 [![Build Status](https://travis-ci.com/lihangqi/lihangqi.github.io.svg?branch=master)](https://travis-ci.com/lihangqi/lihangqi.github.io)
-
 
 ## 致谢
 
