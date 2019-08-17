@@ -2,7 +2,7 @@
 layout:     post   				    # 使用的布局（不需要改）
 title:      Java多线程之Executor框架				# 标题 
 subtitle:   Executor框架是指JDK 1.5中引入的一系列并发库中与Executor相关的功能类，包括Executor、Executors、ExecutorService、Future、Callable等。  #副标题
-date:       2019-07-17				# 时间
+date:       2019-08-17				# 时间
 author:     凌洛 						# 作者
 header-img: img/post-bg-desk.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
