@@ -49,10 +49,12 @@ export <projectname> <local_path>;
 
 ## 4.   数据迁移
 
-    从源ODPS读取数据写入到目标ODPS，先按照“表结构迁移”在目标ODPS创建一个表，做DataX数据同步验证。
+  从源ODPS读取数据写入到目标ODPS，先按照“表结构迁移”在目标ODPS创建一个表，做DataX数据同步验证。
+  
 ## 4.1 、创建作业的配置文件（json格式）
 
-    可以通过命令查看配置模板：``` python datax.py -r {YOUR_READER} -w {YOUR_WRITER}```
+可以通过命令查看配置模板：``` python datax.py -r {YOUR_READER} -w {YOUR_WRITER}```
+
 odps2odps.json样例（填写相关参数，odpsServer/ tunnelServer要改成源/目标ODPS配置）：
 ```
 {
